@@ -1,1 +1,1 @@
-# sec_fin_stmt_proc
+# Code for processing SEC financial statements from publically traded companies
